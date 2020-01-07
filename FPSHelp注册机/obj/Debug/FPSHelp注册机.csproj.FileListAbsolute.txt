@@ -1,0 +1,30 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.pdb
+E:\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe.config
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.exe
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.pdb
+E:\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe
+E:\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.pdb
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csprojResolveAssemblyReference.cache
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Form1.resources
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.FPSServer.resources
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Properties.Resources.resources
+E:\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csproj.GenerateResource.Cache
+F:\project\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe.config
+F:\project\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.exe
+F:\project\project\FPSHelp\FPSHelp注册机\bin\Debug\FPSHelp注册机.pdb
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csprojResolveAssemblyReference.cache
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Form1.resources
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.FPSServer.resources
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.Properties.Resources.resources
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csproj.GenerateResource.cache
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.csproj.CoreCompileInputs.cache
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.exe
+F:\project\project\FPSHelp\FPSHelp注册机\obj\Debug\FPSHelp注册机.pdb

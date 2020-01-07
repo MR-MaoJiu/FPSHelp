@@ -1,0 +1,43 @@
+c:\users\administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\bin\Debug\FPSHelp.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.FPS.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.manifest
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\bin\Debug\FPSHelp.application
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe.manifest
+C:\Users\Administrator\documents\visual studio 2015\Projects\FPSHelp\FPSHelp\obj\Debug\FPSHelp.application
+E:\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.config
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.pdb
+E:\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.manifest
+E:\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.application
+E:\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe
+E:\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.pdb
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csprojResolveAssemblyReference.cache
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Form1.resources
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.FPS.resources
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Properties.Resources.resources
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csproj.GenerateResource.Cache
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe.manifest
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.application
+E:\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe
+F:\project\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.config
+F:\project\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe.manifest
+F:\project\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.application
+F:\project\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.exe
+F:\project\project\FPSHelp\FPSHelp\bin\Debug\FPSHelp.pdb
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csprojResolveAssemblyReference.cache
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Form1.resources
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.FPS.resources
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.Properties.Resources.resources
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csproj.GenerateResource.cache
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.csproj.CoreCompileInputs.cache
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe.manifest
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.application
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.exe
+F:\project\project\FPSHelp\FPSHelp\obj\Debug\FPSHelp.pdb
